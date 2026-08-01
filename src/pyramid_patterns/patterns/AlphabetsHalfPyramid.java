@@ -20,7 +20,7 @@ public class AlphabetsHalfPyramid {
             for(col=0; col<=row ; ++col){           //using E-A is a 4 diff in ASCII, with <= gives us 5 iterations
                 System.out.print(alpha+" ");
             }
-            ++alpha;                    // note that using alpha+1 it will go to ASCII Like A=65 so A+1=66.
+            ++alpha;                    // note that when using alpha+1 it will go to ASCII Like A=65 so A+1=66.
             System.out.print("\n");
         }
     }
