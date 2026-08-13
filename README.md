@@ -22,7 +22,7 @@ This folder contains solutions to problems that are suitable for intermediate-le
 This folder contains solutions to problems that are suitable for Advanced-level problem solvers. These problems are more complex and Exciting.
 
 # Pyramid Patterns
-This folder contains solutions for the most common 10 Different pyramid patterns.
+This folder contains solutions for the most common Different pyramid patterns.
 
 ## 🛠 How to use
 Clone the repo and open it in IntelliJ (or any Java IDE) as a Maven/Gradle project. Each class is self-contained and can be run independently.
